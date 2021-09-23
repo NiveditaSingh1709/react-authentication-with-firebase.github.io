@@ -1,2 +1,2 @@
 # react-authentication-with-firebase.github.io
-LINK-https://eager-archimedes-d62862.netlify.app/login
+LINK-https://confident-shockley-9a570b.netlify.app/login
